@@ -145,22 +145,6 @@ Landing a Frontend / Full Stack **internship** & contributing to **open source**
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
-## 📈 Contribution Graph
-
-<!--
-  Source: ghchart by Ashish Rajani (https://github.com/2016rshah/github-contribution-chart-generator)
-  A long-standing, stable GitHub contribution heatmap generator —
-  replaces github-readme-activity-graph, which frequently goes down
-  or gets rate-limited. ghchart has no third-party dependency on a
-  demo deployment staying online and renders directly from public
-  contribution data.
--->
-<div align="center">
-<img width="100%" src="https://ghchart.rshah.org/38BDF8/Shweta-Singh11" alt="Shweta's GitHub Contribution Graph" />
-</div>
-
-<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
 <div align="center">
 <sub>⚡ Designed with intention · Built with curiosity · <b>Shweta Singh</b> © 2026</sub>
 </div>
