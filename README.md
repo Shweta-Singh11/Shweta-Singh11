@@ -4,7 +4,7 @@
   HERO BANNER
   Source: capsule-render (https://github.com/kyechan99/capsule-render)
 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0F172A&height=260&section=header&text=Hi%20There,%20I'm%20Shweta Singh%20👋&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Explorer%20%7C%20UI%20Craftsman&descAlignY=58&descSize=18&descColor=8B5CF6" alt="Hero Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0F172A&height=260&section=header&text=Hi%20There,%20I'm%20Shweta%20Singh%20👋&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Explorer%20%7C%20UI%20Craftsman&descAlignY=58&descSize=18&descColor=8B5CF6" alt="Hero Banner"/>
 
 <!--
   ANIMATED TYPING EFFECT
